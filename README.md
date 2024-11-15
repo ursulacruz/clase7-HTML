@@ -17,4 +17,5 @@ La página contiene las siguientes secciones principales:
 3. Ejecutar dando click en Open with Live Server.
 
 ### Legales
-- Ursula Cruz Ocampo
+- **Autor:** Ursula Cruz Ocampo
+- **Derechos de autor**: © 2024. Todos los derechos reservados.
