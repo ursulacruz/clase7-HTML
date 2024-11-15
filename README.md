@@ -18,3 +18,4 @@ La página contiene las siguientes secciones principales:
 
 ### Legales
 - **Autor:** Ursula Cruz Ocampo
+- **Derechos de autor**: © 2024. Todos los derechos reservados.
